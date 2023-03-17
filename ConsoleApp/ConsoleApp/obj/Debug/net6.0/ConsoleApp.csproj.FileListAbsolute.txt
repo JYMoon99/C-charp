@@ -1,0 +1,15 @@
+D:\SBS_Code\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+D:\SBS_Code\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+D:\SBS_Code\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+D:\SBS_Code\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+D:\SBS_Code\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+D:\SBS_Code\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
