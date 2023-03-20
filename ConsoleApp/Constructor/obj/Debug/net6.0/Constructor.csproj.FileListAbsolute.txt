@@ -1,0 +1,15 @@
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\bin\Debug\net6.0\Constructor.exe
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\bin\Debug\net6.0\Constructor.deps.json
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\bin\Debug\net6.0\Constructor.runtimeconfig.json
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\bin\Debug\net6.0\Constructor.dll
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\bin\Debug\net6.0\Constructor.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\Constructor.csproj.AssemblyReference.cache
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfoInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfo.cs
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\Constructor.csproj.CoreCompileInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\Constructor.dll
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\refint\Constructor.dll
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\Constructor.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\Constructor.genruntimeconfig.cache
+C:\SBS_Code\C-charp\ConsoleApp\Constructor\obj\Debug\net6.0\ref\Constructor.dll
