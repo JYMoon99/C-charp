@@ -1,0 +1,15 @@
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\bin\Debug\net6.0\Parameter.exe
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\bin\Debug\net6.0\Parameter.deps.json
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\bin\Debug\net6.0\Parameter.runtimeconfig.json
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\bin\Debug\net6.0\Parameter.dll
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\bin\Debug\net6.0\Parameter.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\Parameter.csproj.AssemblyReference.cache
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\Parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\Parameter.AssemblyInfoInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\Parameter.AssemblyInfo.cs
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\Parameter.csproj.CoreCompileInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\Parameter.dll
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\refint\Parameter.dll
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\Parameter.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\Parameter.genruntimeconfig.cache
+C:\SBS_Code\C-charp\ConsoleApp\Parameter\obj\Debug\net6.0\ref\Parameter.dll
