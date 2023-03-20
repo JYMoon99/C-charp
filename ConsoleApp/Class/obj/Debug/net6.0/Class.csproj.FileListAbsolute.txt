@@ -1,0 +1,15 @@
+C:\SBS_Code\C-charp\ConsoleApp\Class\bin\Debug\net6.0\Class.exe
+C:\SBS_Code\C-charp\ConsoleApp\Class\bin\Debug\net6.0\Class.deps.json
+C:\SBS_Code\C-charp\ConsoleApp\Class\bin\Debug\net6.0\Class.runtimeconfig.json
+C:\SBS_Code\C-charp\ConsoleApp\Class\bin\Debug\net6.0\Class.dll
+C:\SBS_Code\C-charp\ConsoleApp\Class\bin\Debug\net6.0\Class.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\Class.dll
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\refint\Class.dll
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\Class.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\Class.genruntimeconfig.cache
+C:\SBS_Code\C-charp\ConsoleApp\Class\obj\Debug\net6.0\ref\Class.dll

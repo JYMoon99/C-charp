@@ -63,11 +63,7 @@ namespace BoxingAndUnBoxing
 
             #endregion
 
-            // 입력
-            Console.WriteLine("Excellent");
-            string input = Console.ReadLine();
-            Console.WriteLine(input);
-            
+  
         }
 
 
