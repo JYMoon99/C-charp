@@ -1,0 +1,15 @@
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.exe
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.deps.json
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.runtimeconfig.json
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.dll
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\bin\Debug\net6.0\BoxingAndUnBoxing.pdb
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.csproj.AssemblyReference.cache
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.AssemblyInfoInputs.cache
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.AssemblyInfo.cs
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.csproj.CoreCompileInputs.cache
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.dll
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\refint\BoxingAndUnBoxing.dll
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.pdb
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\BoxingAndUnBoxing.genruntimeconfig.cache
+D:\SBS_Code\C-charp\ConsoleApp\BoxingAndUnBoxing\obj\Debug\net6.0\ref\BoxingAndUnBoxing.dll
