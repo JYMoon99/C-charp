@@ -7,6 +7,8 @@ namespace BoxingAndUnBoxing
             // object - 참조 타입
         static void Main(string[] args)
         {
+
+
             #region 박싱(Boxing)이란?
             // 값 형식을 창조 형식으로 변환해주는 과정
             // int data = 100;
@@ -32,11 +34,42 @@ namespace BoxingAndUnBoxing
             // Console.WriteLine(result);
             #endregion
 
-            ArrayList arrayList = new ArrayList();
+            #region AyyayList
+            // ArrayList arrayList = new ArrayList();
+            // arrayList.Add(100);         // 값 타입
+            // arrayList.Add(3.56);        // 값 타입
+            // arrayList.Add('T');         // 값 타입
+            // arrayList.Add("string");    // 참조 타입
+            // arrayList.Add("string");    // 참조 타입
+            // arrayList.Add("string");    // 참조 타입
+            // arrayList.Add("string");    // 참조 타입
+            //
+            // Console.WriteLine(arrayList.Capacity);
+            //
+            // for(int i = 0; i < arrayList.Count; i++)
+            // {
+            //     Console.WriteLine(arrayList[i]);
+            // }
+            #endregion
 
+            #region String
+            //
+            //string name = "Moon";
+            //
+            //Console.WriteLine(name);
+            //name = "Jung";
+            //
+            //Console.WriteLine(name);
+
+            #endregion
+
+            // 입력
+            Console.WriteLine("Excellent");
+            string input = Console.ReadLine();
+            Console.WriteLine(input);
             
-
         }
+
 
 
 

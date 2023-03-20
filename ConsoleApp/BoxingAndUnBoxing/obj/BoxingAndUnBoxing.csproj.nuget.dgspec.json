@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj": {}
+    "C:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj": {}
   },
   "projects": {
-    "D:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj": {
+    "C:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj",
+        "projectUniqueName": "C:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj",
         "projectName": "BoxingAndUnBoxing",
-        "projectPath": "D:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj",
+        "projectPath": "C:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\BoxingAndUnBoxing.csproj",
         "packagesPath": "C:\\Users\\munj5\\.nuget\\packages\\",
-        "outputPath": "D:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\obj\\",
+        "outputPath": "C:\\SBS_Code\\C-charp\\ConsoleApp\\BoxingAndUnBoxing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\munj5\\AppData\\Roaming\\NuGet\\NuGet.Config",
