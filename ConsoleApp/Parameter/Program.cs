@@ -11,7 +11,7 @@
             x -= 100;
         }
 
-        // in : 참조형 매개변수이면서, 매개변수에 상수화가 이루어신 변수
+        // in : 참조형 매개변수이면서, 매개변수에 상수화가 이루어진 변수
         static void Function(in int x)
         {
             // 값을 변경할 수 없습니다.
@@ -20,7 +20,7 @@
             Console.WriteLine("매개 변수 x의 값 : " + x);
         }
 
-        // out : 참조형 매개변수이면수, 출역용 매개변수
+        // out : 참조형 매개변수이면수, 출력용 매개변수
 
         static void RayCast(out int x)
         {
@@ -72,7 +72,7 @@
             //Information(10, 20);
             //
             //Information(10, 20, 35, 45);
-
+            Function(400);
 
             #region 백준 25314
            // int num = int.Parse(Console.ReadLine());

@@ -1,0 +1,15 @@
+C:\SBS_Code\C-charp\ConsoleApp\Override\bin\Debug\net6.0\Override.exe
+C:\SBS_Code\C-charp\ConsoleApp\Override\bin\Debug\net6.0\Override.deps.json
+C:\SBS_Code\C-charp\ConsoleApp\Override\bin\Debug\net6.0\Override.runtimeconfig.json
+C:\SBS_Code\C-charp\ConsoleApp\Override\bin\Debug\net6.0\Override.dll
+C:\SBS_Code\C-charp\ConsoleApp\Override\bin\Debug\net6.0\Override.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\Override.csproj.AssemblyReference.cache
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\Override.AssemblyInfoInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\Override.AssemblyInfo.cs
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\Override.csproj.CoreCompileInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\Override.dll
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\refint\Override.dll
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\Override.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\Override.genruntimeconfig.cache
+C:\SBS_Code\C-charp\ConsoleApp\Override\obj\Debug\net6.0\ref\Override.dll
