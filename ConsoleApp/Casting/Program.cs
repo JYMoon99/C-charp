@@ -97,7 +97,7 @@
 
             unit.Damage(marine);
             unit.Damage(ghost);
-
+            
 
         }
     }
