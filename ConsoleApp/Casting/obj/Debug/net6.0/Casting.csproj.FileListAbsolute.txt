@@ -1,0 +1,15 @@
+C:\SBS_Code\C-charp\ConsoleApp\Casting\bin\Debug\net6.0\Casting.exe
+C:\SBS_Code\C-charp\ConsoleApp\Casting\bin\Debug\net6.0\Casting.deps.json
+C:\SBS_Code\C-charp\ConsoleApp\Casting\bin\Debug\net6.0\Casting.runtimeconfig.json
+C:\SBS_Code\C-charp\ConsoleApp\Casting\bin\Debug\net6.0\Casting.dll
+C:\SBS_Code\C-charp\ConsoleApp\Casting\bin\Debug\net6.0\Casting.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\Casting.csproj.AssemblyReference.cache
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\Casting.dll
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\refint\Casting.dll
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\Casting.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\Casting.genruntimeconfig.cache
+C:\SBS_Code\C-charp\ConsoleApp\Casting\obj\Debug\net6.0\ref\Casting.dll

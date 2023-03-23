@@ -10,7 +10,7 @@ namespace BoxingAndUnBoxing
 
 
             #region 박싱(Boxing)이란?
-            // 값 형식을 창조 형식으로 변환해주는 과정
+            // 값 형식을 참조 형식으로 변환해주는 과정
             // int data = 100;
 
             // Boxing 과정은 암묵적 형변환이 발생
