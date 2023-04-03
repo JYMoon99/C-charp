@@ -1,0 +1,5 @@
+C:\SBS_Code\C-charp\ConsoleApp\Collection\obj\Debug\net6.0\Collection.csproj.AssemblyReference.cache
+C:\SBS_Code\C-charp\ConsoleApp\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\SBS_Code\C-charp\ConsoleApp\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\SBS_Code\C-charp\ConsoleApp\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache

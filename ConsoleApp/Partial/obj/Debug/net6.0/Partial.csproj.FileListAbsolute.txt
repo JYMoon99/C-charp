@@ -1,0 +1,15 @@
+C:\SBS_Code\C-charp\ConsoleApp\Partial\bin\Debug\net6.0\Partial.exe
+C:\SBS_Code\C-charp\ConsoleApp\Partial\bin\Debug\net6.0\Partial.deps.json
+C:\SBS_Code\C-charp\ConsoleApp\Partial\bin\Debug\net6.0\Partial.runtimeconfig.json
+C:\SBS_Code\C-charp\ConsoleApp\Partial\bin\Debug\net6.0\Partial.dll
+C:\SBS_Code\C-charp\ConsoleApp\Partial\bin\Debug\net6.0\Partial.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\Partial.csproj.AssemblyReference.cache
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\Partial.AssemblyInfoInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\Partial.AssemblyInfo.cs
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\Partial.csproj.CoreCompileInputs.cache
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\Partial.dll
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\refint\Partial.dll
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\Partial.pdb
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\Partial.genruntimeconfig.cache
+C:\SBS_Code\C-charp\ConsoleApp\Partial\obj\Debug\net6.0\ref\Partial.dll
