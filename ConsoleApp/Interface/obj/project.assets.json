@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SBS_Code\\C-charp\\ConsoleApp\\Interface\\Interface.csproj",
+      "projectUniqueName": "D:\\SBS_Code\\C-charp\\ConsoleApp\\Interface\\Interface.csproj",
       "projectName": "Interface",
-      "projectPath": "C:\\SBS_Code\\C-charp\\ConsoleApp\\Interface\\Interface.csproj",
+      "projectPath": "D:\\SBS_Code\\C-charp\\ConsoleApp\\Interface\\Interface.csproj",
       "packagesPath": "C:\\Users\\munj5\\.nuget\\packages\\",
-      "outputPath": "C:\\SBS_Code\\C-charp\\ConsoleApp\\Interface\\obj\\",
+      "outputPath": "D:\\SBS_Code\\C-charp\\ConsoleApp\\Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\munj5\\AppData\\Roaming\\NuGet\\NuGet.Config",

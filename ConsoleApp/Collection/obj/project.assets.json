@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SBS_Code\\C-charp\\ConsoleApp\\Collection\\Indexer.csproj",
+      "projectUniqueName": "D:\\SBS_Code\\C-charp\\ConsoleApp\\Collection\\Indexer.csproj",
       "projectName": "Indexer",
-      "projectPath": "C:\\SBS_Code\\C-charp\\ConsoleApp\\Collection\\Indexer.csproj",
+      "projectPath": "D:\\SBS_Code\\C-charp\\ConsoleApp\\Collection\\Indexer.csproj",
       "packagesPath": "C:\\Users\\munj5\\.nuget\\packages\\",
-      "outputPath": "C:\\SBS_Code\\C-charp\\ConsoleApp\\Collection\\obj\\",
+      "outputPath": "D:\\SBS_Code\\C-charp\\ConsoleApp\\Collection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\munj5\\AppData\\Roaming\\NuGet\\NuGet.Config",

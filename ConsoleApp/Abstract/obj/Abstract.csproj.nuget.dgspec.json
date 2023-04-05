@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\Abstract.csproj": {}
+    "D:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\Abstract.csproj": {}
   },
   "projects": {
-    "C:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\Abstract.csproj": {
+    "D:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\Abstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\Abstract.csproj",
+        "projectUniqueName": "D:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\Abstract.csproj",
         "projectName": "Abstract",
-        "projectPath": "C:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\Abstract.csproj",
+        "projectPath": "D:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\Abstract.csproj",
         "packagesPath": "C:\\Users\\munj5\\.nuget\\packages\\",
-        "outputPath": "C:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\obj\\",
+        "outputPath": "D:\\SBS_Code\\C-charp\\ConsoleApp\\Abstract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\munj5\\AppData\\Roaming\\NuGet\\NuGet.Config",
